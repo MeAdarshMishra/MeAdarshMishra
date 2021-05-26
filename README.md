@@ -23,9 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/me.adarsh.mishra" target="blank">@instagram</a>
-<a href="https://www.hackerrank.com/MeAdarshMishra" target="blank">@hackerrank</a>
-  <a href="https://www.twitter.com/MeAdarshMishra" target="blank">@twitter</a>
+<a href="https://twitter.com/MeAdarshMishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="MeAdarshMishra" height="30" width="40" /></a>
+<a href="https://instagram.com/me.adarsh.mishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="me.adarsh.mishra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
