@@ -19,12 +19,13 @@
 
 - 📫 How to reach me **0904mishra@gmail.com**
 
-- ⚡ Fun fact **I love to explore myself. I am a Temporary Photographer😅 https://www.instagram.com/click_to_graphy/**
+- ⚡ Fun fact **I love to explore myself. I am a Temporary Photographer😅 <a href="https://instagram.com/click_to_graphy" target="blank">@instagram</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/meadarshmishra" target="blank">@instagram</a>
+<a href="https://instagram.com/me.adarsh.mishra" target="blank">@instagram</a>
 <a href="https://www.hackerrank.com/MeAdarshMishra" target="blank">@hackerrank</a>
+  <a href="https://www.twitter.com/MeAdarshMishra" target="blank">@twitter</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
