@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **0904mishra@gmail.com**
 
-- ⚡ Fun fact **I love to explore myself. I am a Temporary Photographer😅 <a href="https://instagram.com/click_to_graphy" target="blank">@instagram</a>
+- ⚡ Fun fact **I love to explore myself.**😅 Hobbies to Click this--> <a href="https://instagram.com/click_to_graphy" target="blank">@instagram</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
