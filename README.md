@@ -32,6 +32,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeAdarshMishra&" alt="MeAdarshMishra" /></p>
 
 
-<h3> Github Profile Trophies. </h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MeAdarshMishra" alt="MeAdarshMishra" /></a> </p>
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
