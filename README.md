@@ -1,4 +1,4 @@
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 <h1 align="center">Hi 👋, I'm | MeAdarshMishra |</h1>
 <h3 align="center">A Student-Learning new Technology</h3
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meadarshmishra&label=Profile%20views&color=0e75b6&style=flat" alt="MeAdarshMishra" /> </p>
@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/MeAdarshMishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="MeAdarshMishra" height="30" width="40" /></a>
 <a href="https://instagram.com/me.adarsh.mishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="me.adarsh.mishra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/meadarshmishra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="MeAdarshMishra" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeAdarshMishra&show_icons=true&locale=en&layout=compact" alt="MeAdarshMishra" /></p>
@@ -33,4 +34,4 @@
 
 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
