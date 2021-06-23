@@ -12,12 +12,12 @@
 
 - 🤝 I’m looking for help with **Google**
 
-- 💬 Ask me about **Kotlin,Android Application and or any other Technical related Query.**
+- 💬 Ask me about **Android Application using Java and Kotlin,HTML,CSS,Bootstrap and or any other Technical related Query.**
 
 - 📫 How to reach me **0904mishra@gmail.com**
 - 🔭 Google Developer's Profile: https://developers.google.com/profile/u/110483920301420576341
 
-- ⚡ Fun fact **I love to explore myself.**😅 Hobbies to Click this--> <a href="https://instagram.com/click_to_graphy" target="blank">@instagram</a>
+- ⚡ Fun fact **I love to explore myself.** **I make my own Photography Website Page** 😅 Hobbies to Click this--> <a href="https://instagram.com/click_to_graphy" target="blank">@instagram</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
