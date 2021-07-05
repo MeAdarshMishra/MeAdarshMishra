@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Android Application using Java** 
 
-- 🌱 I’m currently learning **Java,Android Kotlin Basics**
+- 🌱 I’m currently learning **Java,Android using Java,JSX**
 
 - 👯 I’m looking to collaborate on **Android development and building applications using Kotlin**
 
