@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java,Android using Java,React-Native**
 
-- 👯 I’m looking to collaborate on **Android development and building applications using Kotlin**
+- 👯 I’m looking to collaborate on **Android development and building applications using Java**
 
 - 🤝 I’m looking for help with **Google**
 
