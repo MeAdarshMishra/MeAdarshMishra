@@ -27,6 +27,7 @@
 <a href="https://twitter.com/MeAdarshMishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="MeAdarshMishra" height="30" width="40" /></a>
 <a href="https://instagram.com/me.adarsh.mishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="me.adarsh.mishra" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/meadarshmishra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="MeAdarshMishra" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/MeAdarshMishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="MeAdarshMishra" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeAdarshMishra&show_icons=true&locale=en&layout=compact&theme=darcula" alt="MeAdarshMishra" /></p>
