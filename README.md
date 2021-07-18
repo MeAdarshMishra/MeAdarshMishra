@@ -1,4 +1,5 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 <h1 align="center">Hi<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40">, I'm | MeAdarshMishra | </h1>
 <h3 align="center">A Student-Learning new Technology</h3
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meadarshmishra&label=Profile%20views&color=0e75b6&style=flat" alt="MeAdarshMishra" /> </p>
@@ -18,6 +19,8 @@
 - 🔭 Google Developer's Profile: https://developers.google.com/profile/u/110483920301420576341
 
 - ⚡ Fun fact **I love to explore myself.** **I make my own Photography Web Page!** 😅 Hobbies to Click this--> <a href="https://instagram.com/click_to_graphy" target="blank">@instagram</a>
+-
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,11 +29,13 @@
 <a href="https://www.linkedin.com/in/meadarshmishra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="MeAdarshMishra" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeAdarshMishra&show_icons=true&locale=en&layout=compact" alt="MeAdarshMishra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeAdarshMishra&show_icons=true&locale=en&layout=compact&theme=darcula" alt="MeAdarshMishra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MeAdarshMishra&show_icons=true&locale=en" alt="MeAdarshMishra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MeAdarshMishra&show_icons=true&locale=en&theme=darcula" alt="MeAdarshMishra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeAdarshMishra&" alt="MeAdarshMishra" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeAdarshMishra&theme=darcula)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MeAdarshMishra&theme=onedark)](https://github.com/MeAdarshMishra/github-profile-trophy)
+
 
 
 
