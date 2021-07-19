@@ -30,11 +30,11 @@
 <a href="https://www.hackerrank.com/MeAdarshMishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="MeAdarshMishra" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeAdarshMishra&show_icons=true&locale=en&layout=compact&theme=darcula" alt="MeAdarshMishra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeAdarshMishra&show_icons=true&locale=en&layout=compact&theme=dark" alt="MeAdarshMishra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MeAdarshMishra&show_icons=true&locale=en&theme=darcula" alt="MeAdarshMishra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MeAdarshMishra&show_icons=true&locale=en&theme=dark" alt="MeAdarshMishra" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeAdarshMishra&theme=darcula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeAdarshMishra&theme=dark)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=MeAdarshMishra&theme=onedark)](https://github.com/MeAdarshMishra/github-profile-trophy)
 
 
