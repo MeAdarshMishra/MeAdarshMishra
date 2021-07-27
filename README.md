@@ -19,8 +19,6 @@
 - 🔭 Google Developer's Profile: https://developers.google.com/profile/u/110483920301420576341
 
 - ⚡ Fun fact **I love to explore myself.** **I make my own Photography Web Page!** 😅 Hobbies to Click this--> <a href="https://instagram.com/click_to_graphy" target="blank">@instagram</a>
--
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
