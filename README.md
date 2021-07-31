@@ -20,6 +20,15 @@
 
 - ⚡ Fun fact **I love to explore myself.** **I make my own Photography Web Page!** 😅 Hobbies to Click this--> <a href="https://instagram.com/click_to_graphy" target="blank">@instagram</a>
 
+
+
+<h3 align="left">Break?</h3> 
+
+
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/MeAdarshMishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="MeAdarshMishra" height="30" width="40" /></a>
