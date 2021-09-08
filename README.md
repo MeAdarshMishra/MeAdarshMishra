@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Skills** 
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Application Development**
 
 - 👯 I’m looking to collaborate on **Android development and building applications using Java**
 
