@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meadarshmishra&label=Profile%20views&color=0e75b6&style=flat" alt="MeAdarshMishra" /> </p>
 
 
-- 🔭 I’m currently working on **My Skills!!** 
+- 🔭 I’m currently working on **Android Studio!!** 
 
-- 🌱 I’m currently learning **Application Development**
+- 🌱 I’m currently learning **Android Application using Java**
 
 - 👯 I’m looking to collaborate on **Android development and building applications using Java**
 
