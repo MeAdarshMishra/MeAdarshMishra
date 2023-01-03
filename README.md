@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Google**
 
-- 💬 Ask me about **Android Application using Java and Kotlin,HTML,CSS,Bootstrap, mongoDB and or any other Technical related Query.**
+- 💬 Ask me about **Android Application using Java and Kotlin,HTML and or any other Technical related Query.**
 
 - 📫 How to reach me **0904mishra@gmail.com**
 - 🔭 Google Developer's Profile: https://developers.google.com/profile/u/110483920301420576341
