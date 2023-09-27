@@ -5,17 +5,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meadarshmishra&label=Profile%20views&color=0e75b6&style=flat" alt="MeAdarshMishra" /> </p>
 
 
-- 🔭 I’m currently working on **Android Studio!!** 
+- 🔭 I’m currently working on **Zenbyt Private Limited** 
 
-- 🌱 I’m currently learning **Android Application using Java**
+- 🌱 I’m currently learning **Website Development**
 
-- 👯 I’m looking to collaborate on **Android development and building applications using Java**
+- 👯 I’m looking to collaborate on **MNC**
 
 - 🤝 I’m looking for help with **Google**
 
-- 💬 Ask me about **Android Application using Java and Kotlin,HTML and or any other Technical related Query.**
+- 💬 Ask me about **Web Development,Android Application using Java and Kotlin,HTML and or any other Technical related Query.**
 
-- 📫 How to reach me **0904mishra@gmail.com**
+- 📫 How to reach me **i.er.adarsh@gmail.com**
 - 🔭 Google Developer's Profile: https://developers.google.com/profile/u/110483920301420576341
 
 - ⚡ Fun fact **I love to explore myself.** **I make my own Photography Web Page!** 😅 Hobbies to Click this--> <a href="https://instagram.com/click_to_graphy" target="blank">@instagram</a>
