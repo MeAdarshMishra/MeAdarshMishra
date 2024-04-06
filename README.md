@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meadarshmishra&label=Profile%20views&color=0e75b6&style=flat" alt="MeAdarshMishra" /> </p>
 
 
-- 🔭 I’m currently working on **Cognizant** 
+- 🔭 I’m currently working at **Cognizant** 
 
 - 🌱 I’m currently learning **Website Development**
 
